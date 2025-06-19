@@ -20,13 +20,19 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.abc_123_a.Notifications_Demo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
       "expo-notifications"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e8402687-fd8e-4bc7-84dd-88b26cedb26b"
+      }
+    }
   }
 }
