@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "553634274498",
-    "project_id": "hisaabbook-d54b7",
-    "storage_bucket": "hisaabbook-d54b7.firebasestorage.app"
+    "project_number": "381666480",
+    "project_id": "scenique-b1005",
+    "storage_bucket": "scenique-b1005.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:553634274498:android:a4ec07cbc181febe526f5b",
+        "mobilesdk_app_id": "1:381666480:android:0f5d4d55221e169aebe775",
         "android_client_info": {
-          "package_name": "com.abc_123_a.HisabBook"
+          "package_name": "com.abc_123_a.Notifications_Demo"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAHsu1ltJAMTZQ0DfFRj6D-dpVnzb0X-1g"
+          "current_key": "AIzaSyAscexuOSkweV2BJ1Ymmf81NlU-Ae32YMQ"
         }
       ],
       "services": {
